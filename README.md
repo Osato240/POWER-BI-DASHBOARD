@@ -31,5 +31,7 @@ City Hospital lacked a centralized view of their financial performance. This mad
 
 ## Dashboard
   
+https://github.com/Osato240/POWER-BI-DASHBOARD/blob/main/Screenshot%202025-01-28%20124129.png
 
+https://github.com/Osato240/POWER-BI-DASHBOARD/blob/main/Screenshot%202025-01-28%20124046.png
  
