@@ -21,6 +21,6 @@ City Hospital lacked a centralized view of their financial performance. This mad
 - What is the trend of patients visits to the hospital over time?
 - By gender description give a the total no. of Doctors and patients in the hospital.
 
-
+- Dashboard Interaction <a href="">View Dashboard</a>
 
  
